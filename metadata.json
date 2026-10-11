@@ -1,0 +1,6 @@
+{
+  "name": "My Year Tracker",
+  "description": "Track 365 days of habits, goals, and daily reflections with Good & Bad day ratings, streaks, and offline PWA/APK install support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
